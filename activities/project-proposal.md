@@ -136,7 +136,7 @@ The business model of this project is open-core, meaning that the notebook itsel
 | Eddie F. Castre Jr. | Suggested two problems ideas: H30 gym crowding at peak hours, based on my own observation, and a lost-and-found problem at Diyandi  Compared the candidates’ feasibility and stakeholder access.  | Split the remaining sections among the team through comments in the shared document.  Drafted the Section 4 stakeholder list Drafted the candidate 2 and 3 rows, the selection rationale and the working title. |
 | Charlson Fabrigar | Suggested 2 problems: one related to Diyandi deliveries and the excess time consumed retrieving Related Literature for research  | Interviewed 2 mechanic/auto-repair shops: Danny and Sanny |
 | Daverie A. Gomonit | Suggested 2 problems: The Iligan Navigation System and Portable Measuring App. Introduced possible constraints that the application might run into. Define the assumptions and dependencies. | Drafted the success indicators and verifications method. Drafted the progression of the project thesis before and after proposal analysis. |
-| [Ivan Jay Laguitao](mailto:ivanjaylaguitao@gmail.com) | Suggested 2 problems: freshmen and visitors struggling to find rooms, and buildings; students getting caught in the rain due to not checking the forecast  | Drafted the intended user and setting section Contributed to the in-scope and out-scope capabilities |
+| Ivan Jay Laguitao | Suggested 2 problems: freshmen and visitors struggling to find rooms, and buildings; students getting caught in the rain due to not checking the forecast  | Drafted the intended user and setting section Contributed to the in-scope and out-scope capabilities |
 
 ## 8\. References
 
@@ -154,7 +154,7 @@ Select one option:
 | Member who used AI | Tool | Purpose and sections assisted | How output was checked or revised |
 | :---- | :---- | :---- | :---- |
 | Eddie F. Castre Jr. | Claude | Used claude to help me expound or clear my fragmented thoughts, help turn into clearer wordings and to point out gaps and inconsistencies, I couldn't see myself. It assisted with Section 1, Section 2, Section 4 | Changed or removed claims I couldn’t support, and labeled assumptions as assumptions. Compared the drafts against our shared document and what I actually observed.  |
-| [Ivan Jay Laguitao](mailto:ivanjaylaguitao@gmail.com) | Gemini | Used Gemini to clarify my ideas for the intended users and setting, and to refine the in-scope and out-scope capabilities of the proposed system. | Keep only what fits our scope. Removed anything that was not accurate or could not be supported. |
+| Ivan Jay Laguitao | Gemini | Used Gemini to clarify my ideas for the intended users and setting, and to refine the in-scope and out-scope capabilities of the proposed system. | Keep only what fits our scope. Removed anything that was not accurate or could not be supported. |
 
 ### Main prompts or interaction summary
 
